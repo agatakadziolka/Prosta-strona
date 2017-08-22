@@ -1,0 +1,23 @@
+{
+  "name": "prosta-strona",
+  "version": "1.0.0",
+  "description": "Prosta strona",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "prosta",
+    "strona"
+  ],
+  "author": "Agata Kądziołka",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0"
+  }
+}
